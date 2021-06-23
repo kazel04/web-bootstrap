@@ -1,0 +1,11 @@
+Actinic Keratosis
+Basal Cell Carcinoma
+Dermatofibroma
+Eczema
+Melanoma
+Nevus
+Normal Skin
+Pigmented Benign Keratosis
+Seborrheic Keratosis
+Squamous cell carcinoma
+Vascular lesion
